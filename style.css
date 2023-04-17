@@ -1,0 +1,26 @@
+body>div{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+    color: azure;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover,button:focus{
+    background-color: #008000;
+}
+body {
+    background-image: url(bg.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    overflow: auto;
+}
